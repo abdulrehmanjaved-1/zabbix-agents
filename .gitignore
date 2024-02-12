@@ -3,3 +3,7 @@ zbx_env*/
 .*CERT_FILE
 .*KEY_FILE
 .*CA_FILE
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
